@@ -415,7 +415,7 @@ main:not(#\#) {
             content: "";
             width: 8px;
             height: 4px;
-            background-image: url("/images/icon-up.svg");
+            background-image: url("../images/icon-up.svg");
             background-position: center;
            
             background-repeat: no-repeat;
@@ -443,7 +443,7 @@ main:not(#\#) {
             content: "";
             width: 10px;
             height: 10px;
-            background-image: url("/images/icon-down.svg");
+            background-image: url("../images/icon-down.svg");
             background-position: center;
             background-repeat: no-repeat;
             display: inline-block;
