@@ -27,8 +27,8 @@ Users should be able to:
 - Toggle color theme to their preference
 
 ### Screenshot
-![Dark mode screenshot](./images/dark_mode.png)
-![light mode screenshot](./images/light_mode.png)
+![Dark mode screenshot](/images/dark_mode.png)
+![light mode screenshot](/images/light_mode.png)
 
 ### Links
 
